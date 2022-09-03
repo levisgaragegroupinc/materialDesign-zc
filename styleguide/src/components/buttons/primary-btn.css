@@ -1,0 +1,11 @@
+.primary-btn {
+    color: var(--white-00);
+    background-color: var(--blue-00);
+    border-color: var(--blue-02);
+    height: 40px;
+    min-width: 140px;
+}
+
+.primary-btn:hover .primary-btn:focus {
+    
+}
